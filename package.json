@@ -13,6 +13,7 @@
     "discord.js-selfbot-v13": "^2.14.2",
     "figlet": "^1.6.0",
     "gradient-string": "^2.0.2",
+    "https-proxy-agent": "^7.0.1",
     "inquirer": "^9.2.7",
     "nanospinner": "^1.1.0",
     "node-capmonster": "^0.4.2"
